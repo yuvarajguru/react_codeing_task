@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+/* .sidebar1{
+ 
+  width: 50%;
+  
+
+  top: 110px;
+  min-height: 300px;
+  color: black;
+}
+.sidebar2{
+  width: 50%;
+  margin-left: 100px;
+
+  min-height: 300px;
+  color: black;
+} */
+
+.sidebar1{
+  height: auto;
+  width: 50%;
+  color: black;
+}
+.sidebar2{
+  height: auto;
+  width: 50%;
+  color:black;
+  text-align: left;
+}
+.error{
+  position: relative;
+  color:red;
+  font-size: .8rem;
+  height: auto;
+}
+.table-view{
+  width: 80%;
+  height: auto;
+ 
+}
+.table-view .table{
+  margin: 0 3px;
+  padding: 5px;
+  border: solid black;
+}
+.preview{
+  width: 50%;
+  height: auto;
+  padding: 10px;
+  margin: 2px;
+}
+.table-view .export{
+  text-align: right;
+}
